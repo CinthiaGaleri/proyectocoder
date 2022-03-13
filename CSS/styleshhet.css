@@ -154,6 +154,10 @@ header{
     margin: 5px;
 }
 
+.fotos:hover{
+    transform: scale(2);
+}
+
 /* FIN MAIN PACIENTES */
 
 /* MAIN ADOPTA */
