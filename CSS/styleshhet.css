@@ -267,9 +267,15 @@ footer div p{
 
 /* FIN FOOTER */
 
+/* MOBILE 1200 */
+@media (min-width: 769px) and (max-width: 1200px){
 
+}
 
+/* MOBILE 768 */
+@media (min-width: 481px) and (max-width: 768px){
 
+}
 
 
 
