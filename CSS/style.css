@@ -3,7 +3,23 @@
     padding: 0%;
 }
 .container-fluid{
-    background-color: rgb(233, 233, 157);
+    background-color: #FDDE8F;
+    
 }
 
+.logo{
+    height: 10rem;
+    width: 10rem;
+    border-radius: 100%;
+    padding: 0.5rem;
+}
 
+body{
+    background-color: #FDDE8F;
+    
+}
+main{
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/fondo-patitas-huesos.jpg);
+}
